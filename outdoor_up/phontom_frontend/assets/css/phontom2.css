@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'phontom';  /* project id 2306738 */
+  src: url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.eot');
+  src: url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2306738_rm1r96j6w9.svg#phontom') format('svg');
+}
+    .phontom {
+      font-family: "phontom" !important;
+      font-size: 12px;
+      font-style: normal;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
